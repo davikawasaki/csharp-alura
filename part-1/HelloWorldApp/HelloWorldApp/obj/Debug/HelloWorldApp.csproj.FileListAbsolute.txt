@@ -1,0 +1,10 @@
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Form1.resources
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\davis\Git\csharp-alura\part-1\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
