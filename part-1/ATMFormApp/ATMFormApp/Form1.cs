@@ -19,12 +19,22 @@ namespace ATMForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int accountNumber = 1;
+            // int accountNumber = 1;
             double balance = 100.0;
             double value = 10.0;
-            double valueAfterWithdrawl = balance - value;
+            bool availableToWithdrawl = (value <= balance) && (value >= 0);
 
-            MessageBox.Show("Actual balance: " + valueAfterWithdrawl);
+            if (availableToWithdrawl)
+            {
+                double valueAfterWithdrawl = balance - value;
+                MessageBox.Show("Withdrawl success!");
+                MessageBox.Show("Actual balance: " + valueAfterWithdrawl);
+            } else
+            {
+                MessageBox.Show("Insuficient Balance: " + balance);
+            }
+
+
         }
     }
 }
