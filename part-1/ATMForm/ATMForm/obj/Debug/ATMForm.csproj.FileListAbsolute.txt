@@ -1,0 +1,10 @@
+C:\Users\davis\source\repos\ATMForm\ATMForm\bin\Debug\ATMForm.exe.config
+C:\Users\davis\source\repos\ATMForm\ATMForm\bin\Debug\ATMForm.exe
+C:\Users\davis\source\repos\ATMForm\ATMForm\bin\Debug\ATMForm.pdb
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.csprojAssemblyReference.cache
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.Form1.resources
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.Properties.Resources.resources
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.csproj.GenerateResource.cache
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.csproj.CoreCompileInputs.cache
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.exe
+C:\Users\davis\source\repos\ATMForm\ATMForm\obj\Debug\ATMForm.pdb
